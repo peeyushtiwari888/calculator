@@ -92,9 +92,9 @@ Peeyush Tiwari
 💻 Front-End / MERN Stack Developer<br>
 📍 India<br>
 
-🔗 GitHub: https://github.com/your-username
+🔗 GitHub: https://github.com/peeyushtiwari888
 
-💼 LinkedIn: https://www.linkedin.com/in/your-link
+💼 LinkedIn: https://www.linkedin.com/in/peeyush-tiwari-a4b802319
 ---
 ⭐ Support
 
