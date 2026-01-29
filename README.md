@@ -52,7 +52,9 @@ It serves as a great example of:
   - Error handling (division by zero, empty input, etc.)
 
 ---
+## 📁 Folder Structure
 ```text
+
 calculator-web-app/
 │
 ├── index.html # Main HTML file
@@ -86,9 +88,9 @@ Suggestions and feedback are always appreciated.
 📬 Contact & Author
 
 Peeyush Tiwari
-🎓 Software Engineering Student
-💻 Front-End / MERN Stack Developer
-📍 India
+🎓 Software Engineering Student <br>
+💻 Front-End / MERN Stack Developer<br>
+📍 India<br>
 
 🔗 GitHub: https://github.com/your-username
 
@@ -100,5 +102,5 @@ If you found this project useful or learned something new,
 please consider giving the repository a star ⭐ — it really helps!
 
 
-## 📁 Folder Structure
+
 
